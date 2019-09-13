@@ -39,7 +39,7 @@ entries:
       url: /p1_sample3.html
       output: web, pdf
 
-  - title: Another heading
+  - title: Module Projet
     output: web, pdf
 
     folderitems:
