@@ -12,7 +12,7 @@ C'est la landing page à voir si ça marche
 
 OhOh ça marche !
 
-Une image ? : ![Le logo](images\premiere_connexion\test image fond.png =10x)
+Une image ? : ![Le logo](images\premiere_connexion\test image fond.png)
 
 ## More sample content
 
