@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: SAD Marketing
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
+      external_url: http://sad-marketing.com/fr/
     - title: News
       url: /news
     - title: SAD Interactive
