@@ -10,9 +10,9 @@ folder: sadinteractive
 ## Sample Content
 C'est la landing page à voir si ça marche
 
-OhOh ça marche !
+OhOh _ça marche_ !
 
-Une image ? : ![Le logo](images\premiere_connexion\test image fond.png)
+Une image ? : ![Le logo](images\premiere_connexion\test image fond.png){: height="36px" width="36px"}
 
 ## More sample content
 
