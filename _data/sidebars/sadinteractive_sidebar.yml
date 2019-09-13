@@ -24,11 +24,11 @@ entries:
     output: web, pdf
     folderitems:
     - title: Première connexion
-      url: /landing_page.html
+      url: /sadi_landing_page.html
       output: web
 
     - title: Afficher une carte
-      url: /afficher_une_carte.html
+      url: /sadi_afficher_une_carte.html
       output: web, pdf
 
     - title: Sample 2
