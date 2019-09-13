@@ -12,7 +12,7 @@ C'est la landing page à voir si ça marche
 
 OhOh ça marche !
 
-Une image ? : ![Le logo](company_logo_big)
+Une image ? : ![Le logo](company_logo_big.png)
 
 ## More sample content
 
