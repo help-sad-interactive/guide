@@ -1,10 +1,10 @@
 ---
-title: Sample 2 Topic (Product 1)
+title: Afficher une carte !
 keywords: sample
 summary: "This is just a sample topic..."
-sidebar: product1_sidebar
-permalink: p1_sample2.html
-folder: product1
+sidebar: sadinteractive_sidebar
+permalink: sadi_afficher_une_carte.html
+folder: sadinteractive
 ---
 
 ## Sample Content
