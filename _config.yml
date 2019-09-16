@@ -12,7 +12,7 @@ site_title: Aide SAD Interactive
 company_name: by SAD Marketing
 # this appears in the footer
 
-github_editme_path: help-sad-interactive/guide
+#github_editme_path: help-sad-interactive/guide/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -102,10 +102,6 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- home_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
 - sadinteractive_sidebar
 - other
 

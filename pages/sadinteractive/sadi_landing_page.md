@@ -1,7 +1,7 @@
 ---
 title: Première connexion
 keywords: sample
-summary: "Bienvenu sur SAD Interactive ! Voici toutes les informations nécessaires pour votre première connexion et pour rapidement commencer à utiliser l'outil."
+summary: "Bienvenue sur SAD Interactive ! Voici toutes les informations nécessaires pour votre première connexion et pour rapidement commencer à utiliser l'outil."
 sidebar: sadinteractive_sidebar
 permalink: sadi_landing_page.html
 folder: sadinteractive
