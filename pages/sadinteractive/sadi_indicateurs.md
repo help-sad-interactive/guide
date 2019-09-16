@@ -19,7 +19,7 @@ Il est possible de masquer la légende en cliquant sur l'icône de chevron :
 
 ![Masquer la légende](images\sadi_indicateurs\masquer_legende.gif)
 
-Ou de complètement quitter la carte en cliquant sur l'icône d'oeil barré: 
+Ou de complètement quitter la carte en cliquant sur l'icône d'oeil barré : 
 
 ![Quitter la carte](images\sadi_indicateurs\quitter_carte_indicateurs.gif)
 ## Options avancées
