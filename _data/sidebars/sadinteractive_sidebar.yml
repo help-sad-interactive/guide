@@ -26,6 +26,9 @@ entries:
     - title: Première connexion
       url: /sadi_landing_page.html
       output: web
+    - title: Interface
+      url: /sadi_interface.html
+      output: web
 
   - title: Afficher des cartes
     output: web, pdf

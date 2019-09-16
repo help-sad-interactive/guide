@@ -20,7 +20,7 @@ Il vous suffit alors de rentrer les identifiants que nous vous avons transmis po
 
 Voilà l'interface principale de SAD Interactive :
 
-`Insérer l'image SAD Interactive`
+![Interface](images\landing_page\interface.png)
 
 C'est sur cette interface que toutes les interactions avec l'outil se déroulent. 
 
