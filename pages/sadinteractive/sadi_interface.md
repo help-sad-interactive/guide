@@ -15,32 +15,19 @@ SAD Interactive est basé sur l'API Google Maps et l'interface de navigation en 
 Le champ de recherche en haut à droite de la page permet de rechercher une adresse précise :
 
 ![Rechercher une adresse](images\sadi_interface\sadi_recherche_adresse.png)
-## Première connexion
-Lors de votre première connexion, vous devriez arriver sur la page de Login : 
 
-![Page de Login](images\landing_page\page_login.png)
+Il est également possible de changer le fond de carte utilisé 
 
-Il vous suffit alors de rentrer les identifiants que nous vous avons transmis pour vous connecter. 
+![Changer le fond de carte](images\sadi_interface\sadi_changer_fond.gif)
 
-Voilà l'interface principale de SAD Interactive :
+L'oeil barré sur la droite de l'interface permet de vider complètement la carte, comme par exemple si vous avez affiché de nombreux POI. 
 
-![Interface](images\landing_page\interface.png)
+![vider la carte](images\sadi_interface\sadi_vider_carte.png)
 
-C'est sur cette interface que toutes les interactions avec l'outil se déroulent. 
+## Navigation dans le menu
+Le menu de gauche est la principale source d'intéractions avec l'outil.
+Le champ de recherche permet de retrouver une carte dans le menu. Par exemple en recherchant **revenu** vous retrouverez la carte correspondante. 
+{% include tip.html content="La recherche n'ouvre pas les dossiers où est inclue la carte recherchée, il est nécessaire d'ouvrir manuellement les dossiers." %}
+![Rechercher dans le menu](images\sadi_interface\sadi_rechercher_menu.gif)
 
-## Afficher votre première carte
-
-La première étape pour cela est d'aafficher le menu principal. Pour cela, cliquez sur l'icône correspondante en haut à gauche de votre écran : 
-
-![Ouvrir le menu](images\landing_page\ouvrir_menu.gif)
-
-Puis allez dans Indicateurs>Population et cliquer sur *Population en 2015* :
-
-![Afficher une carte](images\landing_page\afficher_carte.gif)
-
-
-Afficher des notes : 
-
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
-
-{% include links.html %}
+Les éléments en bleu correspondent aux outils auxquels vous avez accès. Vous trouverez davantage d'informations concernant leur utilisation dans le reste de la documentation. 

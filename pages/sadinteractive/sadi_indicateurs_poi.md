@@ -6,7 +6,7 @@ sidebar: sadinteractive_sidebar
 permalink: sadi_indicateurs_poi.html
 folder: sadinteractive
 ---
-
+## Afficher une carte
 Il est possible de croiser les cartes indicateurs et POI. Pour cela il suffit de cliquer dans le menu de gauche sur les cartes que vous souhaitez voir afficher.
 
 {% include warning.html content="Il n'est pas possible d'afficher plusieurs indicateurs. En effet, superposer des aplats de couleurs rendrait la carte illisible !" %}
