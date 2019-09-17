@@ -34,4 +34,9 @@ Puis allez dans Indicateurs>Population et cliquer sur *Population en 2015* :
 
 ![Afficher une carte](images\landing_page\afficher_carte.gif)
 
+Et voilà vous pouvez commencer à explorer l'outil ! Plus d'informations dans la suite de la documentation : 
+
+* [Afficher d'autres cartes](\guide\sadi_poi.html)
+* [Créer un projet](\guide\sadi_creer_projet.html)
+
 {% include links.html %}

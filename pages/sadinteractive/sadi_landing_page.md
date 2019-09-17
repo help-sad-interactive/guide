@@ -3,7 +3,7 @@ title: Première connexion
 keywords: sample
 summary: "Bienvenue sur SAD Interactive ! Voici toutes les informations nécessaires pour votre première connexion et pour rapidement commencer à utiliser l'outil."
 sidebar: sadinteractive_sidebar
-permalink: sadi_landing_page.html
+permalink: index.html
 folder: sadinteractive
 ---
 
@@ -33,5 +33,10 @@ La première étape pour cela est d'aafficher le menu principal. Pour cela, cliq
 Puis allez dans Indicateurs>Population et cliquer sur *Population en 2015* :
 
 ![Afficher une carte](images\landing_page\afficher_carte.gif)
+
+Et voilà vous pouvez commencer à explorer l'outil ! Plus d'informations dans la suite de la documentation : 
+
+* [Afficher d'autres cartes](\guide\sadi_poi.html)
+* [Créer un projet](\guide\sadi_creer_projet.html)
 
 {% include links.html %}
