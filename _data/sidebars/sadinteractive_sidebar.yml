@@ -49,11 +49,26 @@ entries:
     - title: Créer votre premier projet
       url: /sadi_creer_projet.html
       output: web, pdf
-
     - title: Modifier le projet
       url: /sadi_modifier_projet.html
       output: web, pdf
-
     - title: Exporter les données du projet
       url: /sadi_export_projet.html
+      output: web, pdf
+    - title: Projet | Utilisation avancée
+      url: /sadi_projet_avance.html
+      output: web, pdf
+
+  - title: Module Plus d'informations
+    output: web, pdf
+    folderitems:
+    - title: Afficher une nouvelle carte avec le module "Plus d'informations"
+      url: /sadi_plus_d_informations.html
+      output: web, pdf
+
+  - title: Module Créer une carte
+    output: web, pdf
+    folderitems:
+    - title: Créer votre propre carte
+      url: /sadi_creer_une_carte.html
       output: web, pdf
