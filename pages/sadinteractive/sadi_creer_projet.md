@@ -22,13 +22,19 @@ Si vous ne connaissez pas l'adresse de votre projet, il est également possible 
 
 ## Générer la zone
 Une fois le projet initialisé, il vous suffit de cliquer sur **Calculer une zone de chalandise**. 
-Un menu contextuel va s'ouvrir avec plusieurs éléments 
+Un menu contextuel va s'ouvrir avec plusieurs éléments :
 * Le nom du projet qui est généré automatiquement avec le nom de la ville et la date
 * Un rappel de l'adresse du site qui n'est pas modifiable
 * Le choix des temps de trajet. Des choix de zones sont disponibles par défaut mais il est possible d'adapter le nombre et la durée du temsp de trajet en fonction de vos besoins
 * Le choix du moyen de transport
 {% include warning.html content="Actuellement, le mode *transport en commun* ne renvoie des résultats que pour Paris" %}
 
-Une fois que vos paramètres sont bons il vous suffit de cliquer sur **Calculer** et la zone isochrone sera générée.
+![Formulaire projet](images\sadi_creer_projet\formulaire_projet.png)
+
+Une fois que vos paramètres sont bons il vous suffit de cliquer sur **Calculer** et la zone isochrone sera générée :
+
+![Projet généré](images\sadi_creer_projet\resultat_generation_projet.png)
+
+Il est temps désormais de [modifier votre projet](\guide\sadi_modifier_projet.html)
 
 {% include links.html %}
