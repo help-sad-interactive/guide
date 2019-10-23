@@ -7,7 +7,7 @@ permalink: sadi_modifier_projet.html
 folder: sadinteractive
 ---
 # L'interface
-Une fois votre projet généré votre interface devrait ressembler à ça : 
+Une fois votre projet généré cette interface apparait : 
 
 ![Projet généré](images\sadi_modifier_projet\resultat_generation_projet.png)
 
