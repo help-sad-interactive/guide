@@ -1,14 +1,20 @@
 ---
-title: Créer un projet
+title: Exporter un projet
 keywords: sample
-summary: "Le module projet vous permet de calculer une zone isochrone grâce à l'API Google Maps"
+summary: "Les exports vous permettent de mieux connaitre votre zone de chalandise"
 sidebar: sadinteractive_sidebar
 permalink: sadi_export_projet.html
 folder: sadinteractive
 ---
 
-## Bientôt ! 
+Une fois la zone validée, vous pouvez exporter les rapports qui reprennent les informations de typologie sur cette zone. Deux choix s'offrent à vous. 
 
-L'article n'a pas encore été écrit mais il arrive bientôt promis ! 
+## Export PowerPoint
+
+En cliquant sur PPT, un export PowerPoint qui résume les informations de typologie par zone comme par exemple le nombre d'habitants ou les CSP etc.
+
+![Projet généré](images\sadi_exporter_projet\export_ppt.gif)
+
+
 
 {% include links.html %}

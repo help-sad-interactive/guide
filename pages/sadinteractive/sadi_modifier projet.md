@@ -19,5 +19,12 @@ Sur la droite vous pouvez retrouver un résumé des informations sur votre zone.
 
 ![Slider projet](images\sadi_modifier_projet\slider_projet.png)
 
+# Modifier le projet
+
+Une fois la zone générée, vous pouvez décider de modifier la zone grâce à votre connaissance du terrain. Pour cela il vous suffit de cliquer sur les Iris que vous souhaitez modifier puis de leur attribuer le temps de trajet correspondant :
+
+![Modification du projet](images\sadi_modifier_projet\modification_projet.gif)
+
+Il est temps désormais de [exporter votre projet !](\guide\sadi_export_projet.html)
 
 {% include links.html %}
