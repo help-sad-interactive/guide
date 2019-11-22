@@ -1,10 +1,10 @@
 ---
-title:  "Test post from last year"
+title:  "Pas de news pour le moment"
 categories: jekyll update
 permalink: test-post-from-last-year.html
 tags: [news]
 ---
 
-This is just a test post from the previous year.
+Pas de news pour le moment
 
 {% include links.html %}
